@@ -11,7 +11,7 @@
         },
         "functionsPackageLocation": {
             "type": "string",
-            "defaultValue": "https://github.com/dgsigetti/AzureFSSDan/blob/551c8201424b2d1aa39adfd72efedcb6256e6ec0/azure-python-promote-or-quarantine/promoteOrQuarantineFunction/ScanResultHandler/function.json",
+            "defaultValue": "https://github.com/dgsigetti/AzureFSSDan/blob/1caff153f09f1b99b562b439e3f2611d505f327e/azure-python-promote-or-quarantine/azure-python-promote-or-quarantine.zip",
             "metadata": {
                 "description": "Warning: Do not modify the field. Modifications may cause your deployment to fail."
             }
