@@ -11,7 +11,7 @@
         },
         "functionsPackageLocation": {
             "type": "string",
-            "defaultValue": "https://github.com/dgsigetti/AzureFSSDan",
+            "defaultValue": "https://github.com/dgsigetti/AzureFSSDan/blob/main/promoteOrQuarantineFunction.zip",
             "metadata": {
                 "description": "Warning: Do not modify the field. Modifications may cause your deployment to fail."
             }
