@@ -11,7 +11,7 @@
         },
         "functionsPackageLocation": {
             "type": "string",
-            "defaultValue": "https://github.com/dgsigetti/AzureFSSDan/blob/c4c4d1721965b6982fdd389836e11dc82e1686de/azure-python-promote-or-quarantine.zip",
+            "defaultValue": "https://raw.githubusercontent.com/dgsigetti/AzureFSSDan/main/azure-python-promote-or-quarantine.zip",
             "metadata": {
                 "description": "Warning: Do not modify the field. Modifications may cause your deployment to fail."
             }
